@@ -9,4 +9,4 @@
 
 *1337 is school Affiliated to 42 school in Paris.
 
-https://badge.mediaplus.ma/greenbinary/amimouni
+[![amimouni's 42 stats](https://badge.mediaplus.ma/greenbinary/amimouni)](https://github.com/oakoudad/badge42)
