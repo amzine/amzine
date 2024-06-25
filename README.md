@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-👋 Hi, I’m @aachaq
+
+👋 Hi, I’m @amine
 
 👀 I’m interested in computer sience.
 
@@ -10,4 +10,3 @@
 *1337 is school Affiliated to 42 school in Paris.
 
 https://badge.mediaplus.ma/greenbinary/amimouni
--->
