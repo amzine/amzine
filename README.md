@@ -5,7 +5,7 @@
 
 👀 I’m a software engineer in computer science.
 
-🌱 I’m currently member, IT engineering in 1337 coding school in UM6P - Mohammed VI Polytechnic University
+🌱 I’m currently a member, IT engineering in 1337 coding school in UM6P - Mohammed VI Polytechnic University
 
 *1337 is school Affiliated to 42 school in Paris.
 
