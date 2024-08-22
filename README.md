@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @amine
 
-👀 I’m a software engineer in computer science.
+👀 I’m a software developer in computer science.
 
 🌱 I’m currently a member, IT engineering in 1337 coding school in UM6P - Mohammed VI Polytechnic University
 
